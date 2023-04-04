@@ -4,3 +4,8 @@ https://github.com/phanandco/security-project-code-copy/commit/46206eec15a655dcd
 # Issue Fixed #2 
 https://github.com/phanandco/security-project-code-copy/commit/b50fce2e8eaae9bc06cd281442d4a2e4ddbb18c6
    A new comment was made within the code to ensure the users that have access to the code that they need the lastest version of the SFML library or else it would not work properly. Installing the lastest update ensures the lastest security and bug fixes implementation to improve user experince and fluidity. The users have Clion or Visual Studio installed on their devices previously to the SFML installation.
+   
+   
+   
+   SVC
+   https://github.com/itsmekhang/security-project-code/pull/3
