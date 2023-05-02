@@ -15,4 +15,5 @@ https://github.com/itsmekhang/security-project-code/pull/3
 - User error input logging will be implemented. Difficulty: Moderate Priority: Low
 - Local version system control will be implemented. Difficulty: Hard Priority: Low
 
-* I MADE MULTIPLE FORKS FOR DIFFERENT ITERATIONS PLEASE LOOK AT THE OTHER VERSIONS
+### I MADE MULTIPLE FORKS FOR DIFFERENT ITERATIONS PLEASE LOOK AT THE OTHER VERSIONS
+### PLEASE GO TO THE "Project Security Assessment" included file TO ACCESS THE Project Security Assessment Document
