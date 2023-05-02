@@ -16,4 +16,4 @@ https://github.com/itsmekhang/security-project-code/pull/3
 - Local version system control will be implemented. Difficulty: Hard Priority: Low
 
 ### I MADE MULTIPLE FORKS FOR DIFFERENT ITERATIONS PLEASE LOOK AT THE OTHER VERSIONS
-### PLEASE GO TO THE "Project Security Assessment" included file TO ACCESS THE Project Security Assessment Document
+### PLEASE GO TO THE "Project Security Assessment" FILE WITH THE INCLUDED GOOGLE DRIVE LINK TO ACCESS THE Project Security Assessment Document
